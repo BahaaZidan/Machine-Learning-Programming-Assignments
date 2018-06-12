@@ -15,4 +15,4 @@ So the files you should be interested in are the ones that are marked with an as
 ## My Certificate
 
 Thank you AndrewNg. [My Certificate](https://www.coursera.org/account/accomplishments/verify/MA8VYKK5ZJEL)
-![enter image description here](https://picasaweb.google.com/102421455742167399663/6566241142435963633#6566241142099363522)
+![enter image description here](https://preview.ibb.co/jZbA9d/Screenshot_from_2018_06_12_06_32_49.png)

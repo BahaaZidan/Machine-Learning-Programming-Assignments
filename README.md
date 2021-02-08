@@ -1,6 +1,6 @@
 ﻿## What is this ?
 
-This is my solutions for andrewNg's Machine Learning [Course](https://www.coursera.org/learn/machine-learning) assignments.
+These are my solutions for andrewNg's Machine Learning [Course](https://www.coursera.org/learn/machine-learning) assignments.
 
 ## Things that helped me solve :
 
